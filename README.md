@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently in college, learning coding for fun.
 - 🤔 I’m looking for help with motivation, money, and javascript ;)
 - ⚡ Fun fact: I am 18
+-->
